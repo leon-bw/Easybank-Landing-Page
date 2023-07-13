@@ -132,10 +132,10 @@ nav .flex {
     color: var(--Dark-Blue);
 }
 
-.indicator {
+/* .indicator {
     background: linear-gradient(to right, var(--Lime-Green), var(--Bright-Cyan));
     height: .25rem;
-}
+} */
 
 /* ==========
     Hero 
